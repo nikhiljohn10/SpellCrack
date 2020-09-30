@@ -1,0 +1,28 @@
+.container {
+	padding-top: 7rem;
+}
+
+h1{
+	padding-bottom: 0.5rem;
+}
+
+.form-group {
+	margin-bottom: 0.5rem;
+}
+
+.form-crack, .result-section {
+	width: 100%;
+	max-width: 340px;
+	padding: 30px;
+	margin: auto;
+}
+
+.btn-group-toggle .btn-primary {
+	color: #212529;
+    background-color: transparent;
+    border-color: rgb(0, 86, 179);
+}
+
+footer.fixed-bottom {
+	box-shadow: 0 -0.5rem .25rem rgba(0,0,0,.075) !important;
+}
